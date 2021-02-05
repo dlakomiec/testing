@@ -1,0 +1,21 @@
+.body {
+  transition-duration: 0.5s;
+}
+.dark-mode {
+  text-align: center;
+  width: 120px;
+  border: fuchsia 1px solid;
+  margin: 0 auto;
+  border-radius: 10%;
+}
+.dark-mode-header--js {
+  color: white;
+  transition-duration: 1s;
+  background-color: #000000;
+}
+
+.dark-mode--js {
+  background-color: #4a4e69;
+  color: white;
+  transition-duration: 0.5s;
+}
